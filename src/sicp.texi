@@ -5,7 +5,7 @@
 @comment             Unofficial Texinfo Format
 @comment
 @set utfversion      2.diamondbond.6
-@set utfversiondate  July 19, 2022
+@set utfversiondate  June 19, 2022
 @comment
 @comment             This file is licensed under a Creative Commons
 @comment             Attribution-ShareAlike 4.0 International License
@@ -80,7 +80,7 @@
 @comment   Improved microtypography in code listings. Removed manual
 @comment   word breaks. Fixed broken links.
 @comment
-@comment * Version 2.diamondbond.6 (July 19, 2022) by Diamond Bond.
+@comment * Version 2.diamondbond.6 (June 19, 2022) by Diamond Bond.
 @comment   2022 upbringing.
 
 \frontmatter
@@ -10905,7 +10905,7 @@ access parts of a complex number independent of how the number is represented.
 The resulting complex-number system, as shown in @ref{Figure 2.19}, contains
 two different kinds of abstraction barriers.  The ``horizontal'' abstraction
 barriers play the same role as the ones in @ref{Figure 2.1}.
-They isolate ``higher-level'' operations from 
+They isolate ``higher-level'' operations from
 ``lower-level''
 rep@-re@-sen@-ta@-tions.  In addition, there is a ``vertical'' barrier that
 gives us the ability to separately design and install alternative
