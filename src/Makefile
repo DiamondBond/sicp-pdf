@@ -1,5 +1,6 @@
 # Contributed by holomorph, 2013.
 # Added to by Andres Raba, 2013-2015.
+# Updated by Diamond Bond, 2022.
 
 FIG := $(patsubst %.svg,%.pdf,$(wildcard fig/*/*.svg))
 DIR := $(shell pwd)
