@@ -4,8 +4,8 @@
 @settitle            Structure and Interpretation of Computer Programs, 2e
 @comment             Unofficial Texinfo Format
 @comment
-@set utfversion      2.andresraba5.6
-@set utfversiondate  February 2, 2016
+@set utfversion      2.diamondbond.6
+@set utfversiondate  July 19, 2022
 @comment
 @comment             This file is licensed under a Creative Commons
 @comment             Attribution-ShareAlike 4.0 International License
@@ -80,7 +80,8 @@
 @comment   Improved microtypography in code listings. Removed manual
 @comment   word breaks. Fixed broken links.
 @comment
-
+@comment * Version 2.diamondbond.6 (July 19, 2022) by Diamond Bond.
+@comment   2022 upbringing.
 
 \frontmatter
 
